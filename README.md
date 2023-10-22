@@ -1,4 +1,4 @@
-# COVID-19-Country-Response-Assessement-Tool-RAT-19-
+# COVID-19-Country-Response-Assesement-Tool
 
 <a name="readme-top"></a>
 
