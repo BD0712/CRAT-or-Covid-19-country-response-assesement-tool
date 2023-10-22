@@ -58,10 +58,10 @@ For more information on the importance of a professional README for your reposit
 
 # 📖 Revise AI <a name="about-project"></a>
 
--     "Revise AI" is an innovative educational tool that leverages cutting-edge AI technology to
-      facilitate seamless lecture transcription and intelligent content revision. It empowers students
-      and educators to effortlessly review and enhance educational materials, fostering a collaborative
-      and efficient learning experience.
+-     This pandemic response assessment program evaluates data on the current Covid-19 pandemic from the top 50
+      countries with the most cases as of May 21st, 2020. It will evaluate each country's response to the pandemic
+      on a point-based system. The point based system will incorporate different assessment data points including
+      to compare each country.
 
 
 
@@ -72,24 +72,16 @@ For more information on the importance of a professional README for your reposit
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
-  <summary>Client</summary>
+  <summary>Tool</summary>
   <ul>
-    <li><a href="https://www.glideapps.com/">Glide Apps</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>API</summary>
-  <ul>
-    <li><a href="https://openai.com/blog/openai-api">Open AI</a></li>
-    <li><a href="https://www.glideapps.com/ai">Glide AI</a></li>
+    <li><a href="https://www.jetbrains.com/pycharm/">PyCharm</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.google.ca/sheets/about/">Google Sheets</a></li>
+    <li><a href="https://www.microsoft.com/en-ca/microsoft-365/excel">Microsoft Excel</a></li>
   </ul>
 </details>
 
