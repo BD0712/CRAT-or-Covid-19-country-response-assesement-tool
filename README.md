@@ -49,7 +49,6 @@ For more information on the importance of a professional README for your reposit
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [📝 License](#license)
@@ -127,18 +126,7 @@ For more information on the importance of a professional README for your reposit
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
-
-> Features that will be added to the project in the future.
-
-- [ ] Adaptive Learning Algorithms: Incorporate adaptive learning algorithms that personalize the learning journey
-      based on individual progress, providing tailored recommendations and study materials.
-- [ ] Voice Command Functionality: Implement voice command functionality for hands-free navigation and interaction,
-      enabling users to access and control app features using voice prompts and commands.
-- [ ] Language Support Expansion: Expand language support to accommodate a diverse user base, offering multilingual
-      transcription and revision capabilities for a broader global reach.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
