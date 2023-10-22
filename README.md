@@ -1,4 +1,4 @@
-# COVID-19-Country-Response-Assesement-Tool
+# CRAT or COVID-19-Country-Response-Assesement-Tool
 
 <a name="readme-top"></a>
 
