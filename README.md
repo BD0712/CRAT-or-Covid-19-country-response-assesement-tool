@@ -103,11 +103,10 @@ For more information on the importance of a professional README for your reposit
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<p>Check out <a href="[https://www.freecodecamp.org/](https://drive.google.com/file/d/1zX4Gmd3K0APscW9fh7Rr8k0DBGAlZfTM/view?usp=drive_link)">CRAT Live demo</a>.</p>
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://google.com)
-  <img src="App screenshot.png" alt="logo" width="140"  height="auto" />
+- [Live Demo Link]([https://google.com](https://drive.google.com/file/d/1zX4Gmd3K0APscW9fh7Rr8k0DBGAlZfTM/view?usp=drive_link))
+  <img src="CRAT Logo.png" alt="logo" width="140"  height="auto" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
