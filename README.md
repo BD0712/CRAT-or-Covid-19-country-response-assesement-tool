@@ -105,7 +105,7 @@ For more information on the importance of a professional README for your reposit
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]([https://google.com](https://drive.google.com/file/d/1zX4Gmd3K0APscW9fh7Rr8k0DBGAlZfTM/view?usp=drive_link))
+- [Live Demo Link](https://drive.google.com/file/d/1zX4Gmd3K0APscW9fh7Rr8k0DBGAlZfTM/view?usp=drive_link)
   <img src="CRAT Logo.png" alt="logo" width="140"  height="auto" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
